@@ -12,7 +12,7 @@ Welcome to the HR Analytics project repository! This project focuses on leveragi
 3. [Talent Acquisition Metrics](#talent-acquisition-metrics)
 4. [Skills Gap Analysis](#skills-gap-analysis)
 5. [Diversity and Inclusion Metrics](#diversity-and-inclusion-metrics)
-6. [Important Formulas](#formuals)
+6. [Important Formulas](#important-formuals)
 
 ## Employee Turnover Analysis
 
@@ -78,7 +78,7 @@ Analyzing diversity metrics fosters an inclusive workplace. Understanding repres
 
 This project aims to provide a comprehensive understanding of HR analytics and its applications in improving recruitment efficiency. Feel free to explore each section for detailed analyses and insights.
 
-## Formulas
+## Important Formulas
 
 # HR Analytics Project
 
