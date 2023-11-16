@@ -12,7 +12,7 @@ Welcome to the HR Analytics project repository! This project focuses on leveragi
 3. [Talent Acquisition Metrics](#talent-acquisition-metrics)
 4. [Skills Gap Analysis](#skills-gap-analysis)
 5. [Diversity and Inclusion Metrics](#diversity-and-inclusion-metrics)
-6. [Important Formulas](#important-formuals)
+6. [Important Formulas](#important-formuals).
 
 ## Employee Turnover Analysis
 
