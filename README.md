@@ -78,17 +78,8 @@ Analyzing diversity metrics fosters an inclusive workplace. Understanding repres
 
 This project aims to provide a comprehensive understanding of HR analytics and its applications in improving recruitment efficiency. Feel free to explore each section for detailed analyses and insights.
 
+
 ## Important Formulas
-
-# HR Analytics Project
-
-Welcome to the HR Analytics Project - Simplifying HR Insights for Everyone!
-
-## Overview
-
-🚀 Elevate your HR practices with data-driven insights! This project provides straightforward analyses and key metrics to optimize recruitment, boost engagement, and foster diversity within your organization.
-
-## Key Formulas
 
 1. **Turnover Rate:**
    - Formula: Turnover Rate = (Number of Employees Left / Average Number of Employees) * 100
