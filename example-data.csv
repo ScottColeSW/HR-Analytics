@@ -1,0 +1,4 @@
+Employee ID , Number of Employees Left , Average Number of Employees , Number of Engaged Employees , Total Recruitment Costs , Number of Hires , Number of Employees Lacking Skills , Gender , City , Job Title , Department , Store Location , Business Unit , Division , Age , Length of Service , Absent Hours 
+1, 5, 100 , 80, 5000 , 10 , 20 , M, NY , Manager , HR , NY, BU1, D1 , 45, 5 , 10
+2, 7, 120 , 90, 6000 , 12 , 30 , F, LA , Analyst , Finance, LA, BU2, D2 , 30, 3 , 5 
+3, 6, 110 , 85, 5500 , 11 , 25 , M, SF , Engineer, IT , SF, BU3, D3 , 35, 4 , 8 
