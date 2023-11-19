@@ -87,8 +87,20 @@ Analyzing diversity metrics fosters an inclusive workplace. Understanding repres
 
 4. **Skills Gap Percentage:**
    - Formula: Skills Gap Percentage = (Number of Employees Lacking Skills / Total Number of Employees) * 100
+  
+5. Retention Rate:
+Retention Rate = ((Number of Employees at the End - Number of Employees Left) / Number of Employees at the Start) * 100
 
-5. **Representation Rate:**
+6. Average Employee Tenure:
+Average Employee Tenure = (Sum of Length of Service for all Employees) / Number of Employees
+
+7. Absenteeism Rate:
+Absenteeism Rate = (Total Absent Hours / (Total Number of Employees * Work Hours per Employee)) * 100
+
+8. Diversity Index:
+Diversity Index = (Number of Unique Genders / Total Number of Employees) * 100
+
+9. **Representation Rate:**
    - Formula: Representation Rate = (Number of Diverse Employees / Total Number of Employees) * 100
 
 
